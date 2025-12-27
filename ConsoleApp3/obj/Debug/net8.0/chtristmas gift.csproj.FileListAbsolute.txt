@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\chtristmas gift.exe
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\chtristmas gift.deps.json
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\chtristmas gift.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\chtristmas gift.dll
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\chtristmas gift.pdb
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\chtristmas gift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\chtristmas gift.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\chtristmas gift.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\chtristmas gift.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\chtristmas gift.dll
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\refint\chtristmas gift.dll
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\chtristmas gift.pdb
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\chtristmas gift.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\chtristmas gift.dll
